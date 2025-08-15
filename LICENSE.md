@@ -16,4 +16,4 @@ In no event shall the author or copyright holder be liable for any claim, damage
 whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with 
 the software or the use or other dealings in the software.
 
-For licensing questions, contact: [your email here]
+For licensing questions, contact: fluxhelpteam@gmail.com
