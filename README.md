@@ -1,6 +1,6 @@
 # EMK Browser
 
-![EMK Browser Logo](https://i.imgur.com/gvgNmxe.png)
+![EMK Browser Logo](https://i.imgur.com/4Rvgq40.png)
 
 EMK Browser is a sleek and fast desktop browser built by a 17-year-old coder for a cleaner, distraction-free browsing experience. It’s **free to use**, simple yet powerful.
 
